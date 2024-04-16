@@ -8,7 +8,7 @@
 
 In the project directory, you can run:
 1.open the terminal 
-### `git clone `
+### `git clone git@github.com:sivaprasadvitta/25-React-Project.git`
 
 2. ### `npm i`
 3. ### `npm start`
